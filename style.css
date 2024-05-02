@@ -238,7 +238,7 @@ nav {
 .customisation {
     padding: 80px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("assets/customisation.jpg");
+    url(assets/customization.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -349,7 +349,7 @@ nav {
 .contact {
     padding: 80px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("https://plus.unsplash.com/premium_photo-1676998430860-22766e72010d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTgxfHxnYXJhZ2V8ZW58MHx8MHx8fDA%3D");
+    url("assets/contact.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
